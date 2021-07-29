@@ -4294,6 +4294,15 @@ textarea.form-control-lg {
   padding: 1rem 1rem;
 }
 
+.project-title {
+  text-decoration: none;
+}
+
+.project-text {
+  text-decoration: none;
+  
+}
+
 .card-title {
   margin-bottom: 0.5rem;
 }
@@ -10998,6 +11007,7 @@ section.resume-section {
 
   
 }
+
 section.resume-section .resume-section-content {
   width: 100%;
   /* border-radius: 45px;
