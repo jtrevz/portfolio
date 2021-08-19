@@ -4505,6 +4505,7 @@ textarea.form-control-lg {
 .accordion-item:last-of-type .accordion-button.collapsed {
   border-bottom-right-radius: calc(0.25rem - 1px);
   border-bottom-left-radius: calc(0.25rem - 1px);
+  padding: 2rem;
 }
 .accordion-item:last-of-type .accordion-collapse {
   border-bottom-right-radius: 0.25rem;
@@ -10887,10 +10888,7 @@ p.lead {
 }
 
 #sideNav {
-  border-radius: 0 42px 42px 0 ;
   background: #642027;
-  box-shadow: inset 8px 8px 16px #46161b,
-              inset -8px -8px 16px #822a33;
 }
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
@@ -10903,7 +10901,7 @@ p.lead {
 
 @media (min-width: 992px) {
   #sideNav {
-    padding-left: 0;
+    padding-left: 20px;
     padding-right: 0;
     text-align: center;
     position: fixed;
@@ -10913,6 +10911,9 @@ p.lead {
     flex-direction: column;
     width: 17rem;
     height: 100vh;
+    border-radius: 0 42px 42px 0 ;
+    box-shadow: inset 8px 8px 16px #46161b,
+              inset -8px -8px 16px #822a33;
   }
   #sideNav .navbar-brand {
     display: flex;
