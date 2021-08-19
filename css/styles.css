@@ -10887,6 +10887,13 @@ p.lead {
   font-size: 1.5rem;
 }
 
+.popcorn {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 #sideNav {
   background: #642027;
 }
@@ -10898,6 +10905,7 @@ p.lead {
 #sideNav .navbar-toggler:focus {
   outline-color: #d48a6e;
 }
+
 
 @media (min-width: 992px) {
   #sideNav {
