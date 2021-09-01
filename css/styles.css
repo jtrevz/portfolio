@@ -4337,6 +4337,11 @@ textarea.form-control-lg {
   border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
 }
 
+.exp-city{
+  display: flex;
+  justify-content: flex-end;
+}
+
 .card-footer {
   padding: 0.5rem 1rem;
   background-color: rgba(0, 0, 0, 0.03);
