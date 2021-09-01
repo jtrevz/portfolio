@@ -1,6 +1,6 @@
 # Portfolio
 
-![Portfolio](PIC)
+![Portfolio](https://user-images.githubusercontent.com/78758382/131712303-85db6306-31ae-43de-a8bd-9109ef931b41.png)
 
 ## Description
 This application serves as my personal coding portfolio. This portfolio displays past and current projects and outlines by past work experience and other interests relevant to any job prospects. 
@@ -15,13 +15,13 @@ This application serves as my personal coding portfolio. This portfolio displays
 
 ## Table of Contents
 
-* [Projects](#usage)
+* [Projects](#projects)
 
-* [Design](#technology)
+* [Design](#design)
 
 * [Technology](#technology)
 
-* [Questions](#Questions)
+* [Questions](#questions)
 
 ---
 ## Projects
@@ -33,7 +33,8 @@ This portfolio's main objective is to display my work and how my coding skills a
 
 This portfolio is based off a template that can be accessed from this repository https://github.com/startbootstrap/startbootstrap-resume. And looks originally like shown below. 
 
-![Template](PIC)
+![Template](https://user-images.githubusercontent.com/78758382/131712434-8e602403-f229-4191-81e2-9646814ac407.png)
+
 
 The portfolio has a simple color palette of maroon and white with grey lettering. This portfolio also experiments with neumorphism which helps give the site depth while not overwhelming it with a lot of design. 
 
