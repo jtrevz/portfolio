@@ -31,12 +31,18 @@ This portfolio's main objective is to display my work and how my coding skills a
 
 ## Design
 
+This portfolio is based off a template that can be accessed from this repository https://github.com/startbootstrap/startbootstrap-resume. And looks originally like shown below. 
+
+![Template](PIC)
+
+The portfolio has a simple color palette of maroon and white with grey lettering. This portfolio also experiments with neumorphism which helps give the site depth while not overwhelming it with a lot of design. 
+
 
 ---
 ## Technology
-
+This portfolio is primarily done in Bootstrap with JavaScript and HTML. If you'd like to see work with more backend functionality please to refer to my work listed in the projects section in my portfolio.
 
 ---
 ## Questions
 
-Any questions us? Message me on [GitHub](https://github.com/jtrevz) or email me at jenny.trevizo2013@gmail.com with any questions or concerns!
+Any questions us? Message me on [GitHub](https://github.com/jtrevz) or email me at jenny.trevizo2013@gmail.com with any questions or concerns! :)
