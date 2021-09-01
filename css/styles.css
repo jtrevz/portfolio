@@ -4316,6 +4316,10 @@ textarea.form-control-lg {
   margin-bottom: 0;
 }
 
+.card-text{
+  font-size: 14px;;
+}
+
 .card-link:hover {
   text-decoration: none;
 }
@@ -11040,9 +11044,17 @@ p.lead {
   margin-right: .5em;
   border-radius: 42px;
   background: #642027;
-  box-shadow:  4px 4px 8px #46161b,
-              -4px -4px 8px #822a33;
+  box-shadow:  4px 4px 9px #46161b,
+              -4px -4px 9px #822a33;
 }
+
+.site-icons .site-icon:hover {
+  color: #fff;
+  border-radius: 42px;
+  box-shadow:  4px 4px 8px #331014,
+              -4px -4px 8px #95303a;
+}
+
 
 .dev-icons {
   font-size: 3rem;
