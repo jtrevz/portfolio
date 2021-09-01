@@ -10894,6 +10894,22 @@ p.lead {
   width: 50%;
 }
 
+.ecommerce {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  width: 65%;
+}
+
+.weather {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  width: 80%;
+}
+
 #sideNav {
   background: #642027;
 }
@@ -10983,9 +10999,9 @@ p.lead {
   font-size: 1.5rem;
   margin-right: 1.5rem;
   border-radius: 42px;
-background: #642027;
-box-shadow:  8px 8px 16px #46161b,
-             -8px -8px 16px #822a33;
+  background: #642027;
+  box-shadow:  8px 8px 16px #46161b,
+              -8px -8px 16px #822a33;
 }
 .social-icons .social-icon:last-child {
   margin-right: 0;
@@ -10999,6 +11015,33 @@ box-shadow:  8px 8px 16px #46161b,
               background: #642027;
               box-shadow:  11px 11px 22px #331014,
                            -11px -11px 22px #95303a;
+}
+
+.site-icons{
+  display: flex;
+  justify-content: flex-end;
+  border-radius: 100%;
+  border-radius: 45px;
+  background: #642027;
+  box-shadow: inset 10px 10px 30px #551b21,
+              inset -10px -10px 30px #73252d;
+  padding: .5rem;
+}
+
+.site-icon{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 2.2rem;
+  width: 2.2rem;
+  color: white;
+  border-radius: 100%;
+  font-size: 1.5rem;
+  margin-right: .5em;
+  border-radius: 42px;
+  background: #642027;
+  box-shadow:  4px 4px 8px #46161b,
+              -4px -4px 8px #822a33;
 }
 
 .dev-icons {
