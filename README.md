@@ -15,16 +15,15 @@ This application serves as my personal coding portfolio. This portfolio display 
 
 ## Table of Contents
 
-* [Usage](#usage)
+* [Projects](#usage)
 
 * [Technology](#technology)
-
-* [Application Images](#Application-Images)
 
 * [Questions](#Questions)
 
 ---
-
+## Projects
+This portfolio's main objective is to display my work and how my coding skills are developing. The projects listed show my skill level on both front end and back end development and work I have done on my own and with in a group. I have picked my most current and relevant work that best showcases my skillset. 
 
 ---
 
