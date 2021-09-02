@@ -4303,6 +4303,11 @@ textarea.form-control-lg {
   
 }
 
+.tech-skills{
+  font-size: 12px;
+  padding-bottom: 10%;
+}
+
 .card-title {
   margin-bottom: 0.5rem;
 }
