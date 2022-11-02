@@ -458,6 +458,10 @@ legend + * {
   -webkit-appearance: none;
 }
 
+.workflow {
+  margin-left: 2.5rem;
+}
+
 ::-webkit-color-swatch-wrapper {
   padding: 0;
 }
@@ -4587,7 +4591,10 @@ fieldset:disabled .btn {
   background-color: #fff;
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
-  border-radius: 0.25rem;
+  border-radius: 0.5rem;
+  background: #ffffff;
+  /* box-shadow: 30px 30px 54px #e0e0e0, -30px -30px 54px #ffffff; */
+  box-shadow: 15px 15px 31px #ededed, -15px -15px 31px #ffffff;
 }
 .card > hr {
   margin-right: 0;
@@ -11249,7 +11256,7 @@ fieldset:disabled .btn {
 }
 body {
   padding-top: 3.375rem;
-  color: #6c757d;
+  color: #642027;
 }
 
 @media (min-width: 992px) {
@@ -11313,6 +11320,32 @@ p.lead {
   margin-right: auto;
   margin-top: 5%;
   width: 55%;
+}
+
+.studious-im {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  width: 75%;
+}
+
+@media screen and (max-width: 768px) {
+  .proj-area {
+    align-items: center;
+  }
+
+  .card {
+    width: 80% !important;
+    margin-bottom: 5%;
+  }
+
+  .site-icon {
+    height: 3.5rem;
+    width: 3.5rem;
+    font-size: 2.5rem;
+    margin-right: 0.5em;
+  }
 }
 
 #sideNav {
@@ -11420,22 +11453,22 @@ p.lead {
   display: flex;
   justify-content: flex-end;
   border-radius: 100%;
-  border-radius: 45px;
+  border-radius: 50px;
   background: #642027;
   box-shadow: inset 10px 10px 30px #551b21, inset -10px -10px 30px #73252d;
-  padding: 0.5rem;
+  padding: 0.7rem;
 }
 
 .site-icon {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  height: 2.2rem;
-  width: 2.2rem;
+  height: 2.5rem;
+  width: 2.5rem;
   color: white;
   border-radius: 100%;
   font-size: 1.5rem;
-  margin-right: 0.5em;
+  margin-right: 0.7em;
   border-radius: 42px;
   background: #642027;
   box-shadow: 4px 4px 9px #46161b, -4px -4px 9px #822a33;
